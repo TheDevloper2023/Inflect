@@ -1,3 +1,5 @@
+# Inflect V3 with hopful Multispeaker support, laying the groundwork for emotion related stuff
+
 <p align="center">
   <a href="https://huggingface.co/spaces/owensong/Inflect-v3"><img src="assets/v3/hero.png" alt="Inflect v3 by Owen Song. Mini 34.31M, Micro 11.79M, Atom 157.19K learned synthesis-core parameters." width="100%"></a>
 </p>
